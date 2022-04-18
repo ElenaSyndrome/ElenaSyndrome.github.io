@@ -180,6 +180,23 @@ kramdown:
 # pages with `comments: true` in the front matter.
 # disqus:                <username>
 
+# You must install giscus github app before use.(https://github.com/apps/giscus)
+# Make sure all variables are set properly. Check below link for detail.
+# https://giscus.vercel.app/
+# You must install giscus github app before use.(https://github.com/apps/giscus)
+# Make sure all variables are set properly. Check below link for detail.
+# https://giscus.vercel.app/
+giscus:
+  repo: "ElenaSyndrome/Comment"
+  repo-id: "R_kgDOHMcCqA"
+  category: "Announcements"
+  category-id: "DIC_kwDOHMcCqM4COo5U"
+  mapping: "pathname"
+  reactions-enabled: "1"
+  data-emit-metadata: "0"
+  data-theme: "light"
+  data-lang: "en"
+  crossorigin: "anonymous"
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
 # tinyletter:            <username>
