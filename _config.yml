@@ -50,13 +50,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Research
-    url:               /_posts/research/
-  - title:             Dev.Log
-    url:               /_posts/devlog/
+    url:               /research/
+  - title:             Dev. Log
+    url:               /devlog/
   - title:             Study Log
-    url:               /_posts/studylog/
+    url:               /studylog/
   - title:             Blog
-    url:               /_posts/blog/
+    url:               /blog/
   - title:             About
     url:               /about/
 
