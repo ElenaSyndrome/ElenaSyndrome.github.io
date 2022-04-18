@@ -1,7 +1,7 @@
 ---
 layout: blog
 type: category
-title: Dev. Log
+title: Dev.     Log
 slug: devlog
 sidebar: true
 order: 2
